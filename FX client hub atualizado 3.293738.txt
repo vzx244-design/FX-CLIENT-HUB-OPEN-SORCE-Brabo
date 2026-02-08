@@ -381,8 +381,8 @@ local Libary = loadstring(game:HttpGet("https://pastefy.app/H9osKdSA/raw"))()
 workspace.FallenPartsDestroyHeight = -math.huge
 
 local Window = Libary:MakeWindow({
-    Title = "🌌Fx client hub | Brookhaven RP ",
-    SubTitle = "by Yasmin",
+    Title = "🌌Fx client hub🌌 | Brookhaven RP🏡",
+    SubTitle = "by: Yasmin",
     LoadText = "Loading FX client hub",
     Flags = "Fxclienthubkkk"
 })
@@ -10908,7 +10908,8 @@ Tab19:AddButton({
             _G.SharinganLight = luz
 
             -- Partículas reduzidas
-            local ps = Instance.new("ParticleEmitter", esfera)
+            local ps = Instance.new("ParticleEmitter
+", esfera)
             ps.Texture = "rbxassetid://243660364"
             ps.Color = ColorSequence.new(Color3.fromRGB(255, 0, 0))
             ps.LightEmission = 0.8
