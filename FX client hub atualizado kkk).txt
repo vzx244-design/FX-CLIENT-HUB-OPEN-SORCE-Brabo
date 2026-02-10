@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pedrohenriquecarvalhofari-tech/lcc-hub-2026/refs/heads/main/painel%20adm%20lcc"))()
 
 local Players =game:GetService("Players")
 local TweenService = game:GetService("TweenService"
