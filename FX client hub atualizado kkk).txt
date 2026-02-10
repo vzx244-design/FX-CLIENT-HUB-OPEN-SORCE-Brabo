@@ -393,8 +393,8 @@ Window:AddMinimizeButton({
 
 local InfoTab = Window:MakeTab({ Title = "Info", Icon = "rbxassetid://15309138473" })
 
-Tabs.M:AddSection({("Acess Admin")})
-Tabs.M:AddButton({("Painel Admin"), function()
+Tabs.M:AddSection({("dona")})
+Tabs.M:AddButton({("...), function()
 Window:Dialog({
     Title = (":3"),
     Text = ("oiê aqui e a Yasmin obrigado pro usa o Fx client hub Ele e novo então não tem muita gente usando mais você usa eu vô gosta de você e entrem no nosso Discord :3."),
